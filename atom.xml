@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xitangwang.github.io</id>
     <title>西红柿汤圆</title>
-    <updated>2020-11-12T04:53:17.143Z</updated>
+    <updated>2020-11-12T05:12:14.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xitangwang.github.io"/>
     <link rel="self" href="https://xitangwang.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://xitangwang.github.io/images/avatar.png</logo>
     <icon>https://xitangwang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 西红柿汤圆</rights>
+    <entry>
+        <title type="html"><![CDATA[《五十二个改变》-- 让生活重新振作]]></title>
+        <id>https://xitangwang.github.io/post/lesslesswu-shi-er-ge-gai-bian-greatergreater-rang-sheng-huo-chong-xin-zhen-zuo-qi-lai/</id>
+        <link href="https://xitangwang.github.io/post/lesslesswu-shi-er-ge-gai-bian-greatergreater-rang-sheng-huo-chong-xin-zhen-zuo-qi-lai/">
+        </link>
+        <updated>2020-11-12T04:59:36.000Z</updated>
+        <summary type="html"><![CDATA[<p>就像购买iphone会附带说明书一样，我也写了一段关于使用这本书的说明书。我自己买手机的时候，是从来不看说明书的。估计你们跟我也差不多。不过这次有点不同，我还是诚挚建议你在读之前，阅读下这段说明。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>就像购买iphone会附带说明书一样，我也写了一段关于使用这本书的说明书。我自己买手机的时候，是从来不看说明书的。估计你们跟我也差不多。不过这次有点不同，我还是诚挚建议你在读之前，阅读下这段说明。</p>
+<!-- more -->
+<h1 id="使用这本书的说明">使用这本书的说明</h1>
+<ul>
+<li>每周只尝试一个改变，贪多嚼不烂。同时进行多个改变的人，除非你拥有许三多那样的毅力，否则最后一个都坚持不来的；</li>
+<li>从小开始，不期速成。比如你宅了很久没运动，就不要马上跑30分钟，改为「今天先跑2分钟、之后每天加量2分钟的方法」。步子迈得太大，会扯着蛋的；</li>
+<li>这不是小时候老妈子逼你学钢琴，选自己喜欢的改变，享受过程。打心底讨厌的话，估计你坚持不了3天就放弃了；</li>
+<li>重复。如果失败了，找出不能坚持这个改变的原</li>
+</ul>
+<p>因，试着改进方法继续重复这个改变（也可以换个新的重新来）；</p>
+<ul>
+<li>选择适合你的时间点。这些变化别在你生活中强行插入，要顺势而为。如你要进行「健走」这个改变，晚饭或者午餐后是个不错的时间点。但是早上6点就不是一个好的时间点（你得挣扎多久才能起床啊）。</li>
+</ul>
+<p>这52个改变并非适合所有人。比如你已经养成散步习惯，在改变3：健走的一周就可以直接跳过，或者休息一周。</p>
+<p>你也可以选择其中10个、20个自己喜欢的改变，然后2～3周只专注于这1个改变。或者只选择其中的12个改变，然后每个月尝试1个。</p>
+<p>怎么来都行，随你。虽然你不用按顺序尝试52个改变，不过我个人还是强烈强烈再强烈地建议，将「每日冥想」作为你进行的第一个改变。</p>
+<hr>
+<blockquote>
+<p>今天是2017年6月21日，其实也没有什么特别的。但是，如果我把现在这件事完成了，那这天对我来说就会很特别。从出生到现在从来不特意去过生日，也没有觉得一年中的拿一天会比较特别，为了让自己无聊的生活变的有趣味一点，我决定开始为自己制造一些特别的日子。也算是对我以往无所事事的生活进行一次尝试性的摆脱把。因为懒癌，我当然不会故意刁难自己去弄一个什么就死一生的挑战，从网上随便找了一本书，撸起袖子干吧。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xitangwang.github.io/post/hello-gridea/</id>
