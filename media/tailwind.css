@@ -3343,7 +3343,7 @@ video {
 }
 
 .border-b-8 {
-  border-bottom-width: 8px;
+  border-bottom-width: 3px;
 }
 
 .border-l-8 {
@@ -5170,7 +5170,7 @@ video {
 }
 
 .max-w-4xl {
-  max-width: 56rem;
+  max-width: 50rem;
 }
 
 .max-w-5xl {
@@ -11205,7 +11205,7 @@ video {
 }
 
 .text-5xl {
-  font-size: 3rem;
+  font-size: 2.3rem;
 }
 
 .text-6xl {
@@ -18819,7 +18819,7 @@ pre code.markdown,
   }
 
   .sm\:max-w-4xl {
-    max-width: 56rem;
+    max-width: 50rem;
   }
 
   .sm\:max-w-5xl {
@@ -31785,7 +31785,7 @@ pre code.markdown,
   }
 
   .md\:max-w-4xl {
-    max-width: 56rem;
+    max-width: 50rem;
   }
 
   .md\:max-w-5xl {
@@ -32553,7 +32553,7 @@ pre code.markdown,
   }
 
   .md\:pt-64 {
-    padding-top: 16rem;
+    padding-top: 0rem;
   }
 
   .md\:pr-64 {
@@ -44751,7 +44751,7 @@ pre code.markdown,
   }
 
   .lg\:max-w-4xl {
-    max-width: 56rem;
+    max-width: 50rem;
   }
 
   .lg\:max-w-5xl {
@@ -57717,7 +57717,7 @@ pre code.markdown,
   }
 
   .xl\:max-w-4xl {
-    max-width: 56rem;
+    max-width: 50rem;
   }
 
   .xl\:max-w-5xl {
@@ -70683,7 +70683,7 @@ pre code.markdown,
   }
 
   .dark\:max-w-4xl {
-    max-width: 56rem;
+    max-width: 50rem;
   }
 
   .dark\:max-w-5xl {
@@ -83649,7 +83649,7 @@ pre code.markdown,
   }
 
   .light\:max-w-4xl {
-    max-width: 56rem;
+    max-width: 50rem;
   }
 
   .light\:max-w-5xl {
