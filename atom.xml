@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xitangwang.github.io</id>
     <title>西红柿汤圆</title>
-    <updated>2020-11-12T05:17:34.896Z</updated>
+    <updated>2020-11-12T05:21:26.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xitangwang.github.io"/>
     <link rel="self" href="https://xitangwang.github.io/atom.xml"/>
@@ -20,9 +20,8 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>就像购买iphone会附带说明书一样，我也写了一段关于使用这本书的说明书。我自己买手机的时候，是从来不看说明书的。估计你们跟我也差不多。不过这次有点不同，我还是诚挚建议你在读之前，阅读下这段说明。</p>
 <!-- more -->
-<h1 id="使用这本书的说明">使用这本书的说明</h1>
+<h1 id="使用这本书的说明"><strong>使用这本书的说明</strong></h1>
 <ol>
-<li>个都坚持不来的；</li>
 <li>从小开始，不期速成。比如你宅了很久没运动，就不要马上跑30分钟，改为「今天先跑2分钟、之后每天加量2分钟的方法」。步子迈得太大，会扯着蛋的；</li>
 <li>这不是小时候老妈子逼你学钢琴，选自己喜欢的改变，享受过程。打心底讨厌的话，估计你坚持不了3天就放弃了；</li>
 <li>重复。如果失败了，找出不能坚持这个改变的原因，试着改进方法继续重复这个改变（也可以换个新的重新来）；</li>
