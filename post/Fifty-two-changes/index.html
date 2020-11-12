@@ -27,7 +27,7 @@
 从小开始，不期速成。..." />
   <meta property="og:type" content="articles">
   <meta property="og:url" content="https://xitangwang.github.io/post/Fifty-two-changes/" />
-  <meta property="og:image" content="https://xitangwang.github.io/post-images/Fifty-two-changes.jpg">
+  <meta property="og:image" content="https://xitangwang.github.io/images/avatar.png">
   <meta property="og:image:height" content="630">
   <meta property="og:image:width" content="1200">
   <meta name="twitter:title" content="《五十二个改变》-- 让生活重新振作 - 西红柿汤圆">
@@ -61,8 +61,6 @@
         <h1 class="text-5xl font-semibold leading-normal pb-8 mb-8 border-b-8 border-gray-700">
           《五十二个改变》-- 让生活重新振作
         </h1>
-        
-          <img src="https://xitangwang.github.io/post-images/Fifty-two-changes.jpg" alt="《五十二个改变》-- 让生活重新振作" class="block w-full mb-8">
         
         <div class="mb-8 flex flex-wrap">
           <div class="text-gray-400 text-sm mr-4">2020-11-12 · 3 min read</div>
@@ -112,9 +110,11 @@
       
 
       
+        <div id="vlaine-comment"></div>
+      
 
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
-  
+  🙋🏻‍♂️Power By Gride
 </footer>
     </div>
 
@@ -293,6 +293,23 @@
     //初始化
     initImg();
   </script>
+  
+    <script type="application/javascript" src="https://unpkg.com/valine"></script>
+<script type="application/javascript">
+  new Valine({
+    el: '#vlaine-comment',
+    appId: 'gkecaAzAfsNi3xd87CP5vNEQ-gzGzoHsz',
+    appKey: 'cnh6zwPOGvgxFF1iCz0qfyY3',
+    pageSize: 10,
+    notify: true,
+    avatar: 'mp',
+    verify: true,
+    placeholder: '来都来了，不妨评论一下',
+    visitor: true,
+    highlight: false,
+    recordIP: true,
+  })
+</script>
   
   
 </body>
