@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xitangwang.github.io</id>
     <title>西红柿汤圆</title>
-    <updated>2020-11-12T08:06:01.039Z</updated>
+    <updated>2020-11-12T08:10:06.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xitangwang.github.io"/>
     <link rel="self" href="https://xitangwang.github.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://xitangwang.github.io/post/lesslesschuang-bian-greatergreater/">
         </link>
         <updated>2020-11-12T07:44:04.000Z</updated>
-        <content type="html"><![CDATA[<p>![](https://xitangwang.github.io/post-images/1605167073796.jpg =600)</p>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xitangwang.github.io/post-images/1605167073796.jpg" alt="" width="600" height="600" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
