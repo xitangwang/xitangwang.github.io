@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xitangwang.github.io</id>
     <title>西红柿汤圆</title>
-    <updated>2020-11-13T03:07:48.727Z</updated>
+    <updated>2020-11-15T08:33:43.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xitangwang.github.io"/>
     <link rel="self" href="https://xitangwang.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://xitangwang.github.io/images/avatar.png</logo>
     <icon>https://xitangwang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 西红柿汤圆</rights>
+    <entry>
+        <title type="html"><![CDATA[《房间》]]></title>
+        <id>https://xitangwang.github.io/post/lesslessfang-jian-greatergreater/</id>
+        <link href="https://xitangwang.github.io/post/lesslessfang-jian-greatergreater/">
+        </link>
+        <updated>2020-11-15T08:22:30.000Z</updated>
+        <content type="html"><![CDATA[<center><font size=5>房间里面有俩人</font></center>
+<center><font  size=5>就是我和你</font></center>
+<blockquote>
+<p>汤圆于二〇二〇年十一月十五日作</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《时间》]]></title>
         <id>https://xitangwang.github.io/post/lesslessshi-jian-greatergreater/</id>
