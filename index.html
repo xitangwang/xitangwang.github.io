@@ -1,178 +1,201 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>西红柿汤圆</title>
-<link rel="shortcut icon" href="https://xitangwang.github.io/favicon.ico">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
-<link rel="stylesheet" href="https://xitangwang.github.io/media/css/tailwind.css">
+<link rel="shortcut icon" href="https://xitangwang.github.io/favicon.ico?v=1605429474499">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://xitangwang.github.io/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="西红柿汤圆 - Atom Feed" href="https://xitangwang.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
+
+
+    <meta name="description" content="🙋🏻‍♂️这里是我的个人站点，我在这里记录关于产品、设计、前端相关的内容，欢迎关注！" />
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://xitangwang.github.io">
+  <img class="avatar" src="https://xitangwang.github.io/images/avatar.png?v=1605429474499" alt="">
+  </a>
+  <h1 class="site-title">
+    西红柿汤圆
+  </h1>
+  <p class="site-description">
+    🙋🏻‍♂️这里是我的个人站点，我在这里记录关于产品、设计、前端相关的内容，欢迎关注！
+  </p>
+  <div class="menu-container">
     
-
-  <meta name="description" content="🙋🏻‍♂️这里是我的个人站点，我在这里记录关于产品、设计、前端相关的内容，欢迎关注！" />
-</head>
-<body>
-  <div class="antialiased flex flex-col min-h-screen" id="app">
-
-    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
-  <div class="flex justify-end px-4">
-    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
-      <i class="ri-close-line" v-show="showMenu"></i>
-      <i class="ri-menu-3-line" v-show="!showMenu"></i>
-    </div>
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
   </div>
-  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
+  <div class="social-container">
     
-      <a href="/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        首页
-      </a>
+      
     
-      <a href="/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        归档
-      </a>
+      
     
-      <a href="/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        标签
-      </a>
+      
     
-      <a href="/post/about" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        关于
-      </a>
+      
     
-    <a href="https://xitangwang.github.io/atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-      RSS
-    </a>
-  </nav>
+      
+    
+  </div>
 </div>
 
-    <div class="max-w-4xl w-full mx-auto ">
-      
-        <header class="flex py-16 md:py-32 mt-12 flex-col md:flex-row px-4 md:px-0 animated fadeIn">
-
-</header>
-      
-
-      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
+    
+        <div class="post-container">
+  
+    <article class="post">
+      <a href="https://xitangwang.github.io/post/Fifty-two-changes/">
+        <h2 class="post-title">《五十二个改变》-- 让生活重新振作</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-11-12
+        </span>
+        <span>
+          2 min read
+        </span>
         
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-      <i class="ri-star-line text-orange-200 absolute text-2xl left-0 ml-1 rotate-90"></i>
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://xitangwang.github.io/post/Fifty-two-changes/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《五十二个改变》-- 让生活重新振作
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-11-12</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
+          <a href="https://xitangwang.github.io/tag/tag-habit/" class="post-tag">
+            # habit
+          </a>
+        
+      </div>
+      
+      <div class="post-abstract">
         <p>就像购买iphone会附带说明书一样，我也写了一段关于使用这本书的说明书。我自己买手机的时候，是从来不看说明书的。估计你们跟我也差不多。不过这次有点不同，我还是诚挚建议你在读之前，阅读下这段说明。</p>
 
       </div>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://xitangwang.github.io/post/lesslessfang-jian-greatergreater/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《房间》
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-11-15</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        房间里面有俩人
-就是我和你
-
-汤圆于二〇二〇年十一月十五日作
-
-...
-      </div>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://xitangwang.github.io/post/lesslessshi-jian-greatergreater/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《时间》
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-11-13</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        把时间都收集起来
-整理、打上标签
-那些刻着你名字的时间
-她们
-不再是碎片
-她们
-正在填满我生命的河流
- 
-
-汤圆于二〇二〇年三月三日作
-
-...
-      </div>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://xitangwang.github.io/post/lesslesschuang-bian-greatergreater/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《窗边》
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-11-12</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-...
-      </div>
-    </div>
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://xitangwang.github.io/post/change01/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          改变1：每日冥想
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-11-12</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        改 变
-找个地方静坐2分钟（带上定时器），把注意力集中到你的呼吸上，这是一种简单的冥想。
-理 由
-（这里面可能会涉及一些佛教的用语，我试着用比较容易读懂的方法来解释。）
-冥想是练习正念的一种方法。在佛教里，正念被解释为能够平静思想、把注意力...
-      </div>
-    </div>
-    
-  </div>
+    </article>
   
+    <article class="post">
+      <a href="https://xitangwang.github.io/post/lesslessfang-jian-greatergreater/">
+        <h2 class="post-title">《房间》</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-11-15
+        </span>
+        <span>
+          1 min read
+        </span>
+        
       </div>
-
       
-      <footer class="py-12 text-center px-4 md:px-0" v-pre>
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+    <article class="post">
+      <a href="https://xitangwang.github.io/post/lesslessshi-jian-greatergreater/">
+        <h2 class="post-title">《时间》</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-11-13
+        </span>
+        <span>
+          1 min read
+        </span>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+    <article class="post">
+      <a href="https://xitangwang.github.io/post/lesslesschuang-bian-greatergreater/">
+        <h2 class="post-title">《窗边》</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-11-12
+        </span>
+        <span>
+          0 min read
+        </span>
+        
+          <a href="https://xitangwang.github.io/tag/k0i6EoZsm/" class="post-tag">
+            # 一首诗
+          </a>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+    <article class="post">
+      <a href="https://xitangwang.github.io/post/change01/">
+        <h2 class="post-title">改变1：每日冥想</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-11-12
+        </span>
+        <span>
+          2 min read
+        </span>
+        
+          <a href="https://xitangwang.github.io/tag/tag-habit/" class="post-tag">
+            # habit
+          </a>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+</div>
+
+    
+        <div class="pagination-container">
+  
+  
+</div>
+
+    
+        <div class="site-footer">
   Powered By Gride
-</footer>
+  <a class="rss" href="https://xitangwang.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
 
+      </div>
     </div>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <script src="https://xitangwang.github.io/media/scripts/main.js"></script>
-</body>
-
+  </body>
 </html>
