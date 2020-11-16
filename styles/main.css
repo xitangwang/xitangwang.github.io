@@ -20,12 +20,12 @@ a:not([class]) {
 a:not([class]):hover {
   border-color: rgba(15, 97, 255, 0.5);
 }
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: ligh) {
   a:not([class]) {
     color: #81a5f8;
   }
 }
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: ligh) {
   body {
     background: #333;
     color: #999;
@@ -37,7 +37,7 @@ a:not([class]):hover {
 .yellow-btn:hover {
   box-shadow: rgba(255, 214, 2, 0.6) 0px 2px 4px 0px;
 }
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: ligh) {
   .yellow-btn {
     box-shadow: none;
   }
