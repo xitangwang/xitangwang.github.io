@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xitangwang.github.io</id>
     <title>文明·空间</title>
-    <updated>2020-11-16T03:48:42.089Z</updated>
+    <updated>2020-11-16T03:51:52.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xitangwang.github.io"/>
     <link rel="self" href="https://xitangwang.github.io/atom.xml"/>
@@ -11,22 +11,9 @@
     <icon>https://xitangwang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 文明·空间</rights>
     <entry>
-        <title type="html"><![CDATA[《房间》]]></title>
-        <id>https://xitangwang.github.io/post/lesslessfang-jian-greatergreater/</id>
-        <link href="https://xitangwang.github.io/post/lesslessfang-jian-greatergreater/">
-        </link>
-        <updated>2020-11-15T08:22:30.000Z</updated>
-        <content type="html"><![CDATA[<center><font size=5>房间里面有俩人</font></center>
-<center><font  size=5>就是我和你</font></center>
-<blockquote>
-<p>汤圆于二〇二〇年十一月十五日作</p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《时间》]]></title>
-        <id>https://xitangwang.github.io/post/lesslessshi-jian-greatergreater/</id>
-        <link href="https://xitangwang.github.io/post/lesslessshi-jian-greatergreater/">
+        <id>https://xitangwang.github.io/post/shijian/</id>
+        <link href="https://xitangwang.github.io/post/shijian/">
         </link>
         <updated>2020-11-13T02:41:54.000Z</updated>
         <content type="html"><![CDATA[<center><font size=5>把时间都收集起来</font></center>
@@ -44,8 +31,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《窗边》]]></title>
-        <id>https://xitangwang.github.io/post/lesslesschuang-bian-greatergreater/</id>
-        <link href="https://xitangwang.github.io/post/lesslesschuang-bian-greatergreater/">
+        <id>https://xitangwang.github.io/post/chuangbian/</id>
+        <link href="https://xitangwang.github.io/post/chuangbian/">
         </link>
         <updated>2020-11-12T07:44:04.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xitangwang.github.io/post-images/1605167073796.jpg" alt="窗边" width="600" height="750" loading="lazy"></figure>
