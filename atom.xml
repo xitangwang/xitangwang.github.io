@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xitangwang.github.io</id>
     <title>文明·空间</title>
-    <updated>2020-11-16T11:26:08.126Z</updated>
+    <updated>2020-11-16T11:32:11.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xitangwang.github.io"/>
     <link rel="self" href="https://xitangwang.github.io/atom.xml"/>
@@ -81,9 +81,6 @@
         <updated>2020-11-15T08:22:30.000Z</updated>
         <content type="html"><![CDATA[<center><font size=5>房间里面有俩人</font></center>
 <center><font  size=5>就是我和你</font></center>
-<blockquote>
-<p>汤圆于二〇二〇年十一月十五日作</p>
-</blockquote>
 ]]></content>
     </entry>
     <entry>
@@ -100,9 +97,6 @@
 <center><font size=5>她们</font></center>
 <center><font size=5>正在填满我生命的河流</font></center>
 <center><font size=5> </font></center>
-<blockquote>
-<p>汤圆于二〇二〇年三月三日作</p>
-</blockquote>
 ]]></content>
     </entry>
     <entry>
