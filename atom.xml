@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xitangwang.github.io</id>
+    <id>https://wenming.space</id>
     <title>文明·空间</title>
-    <updated>2020-11-16T12:15:33.726Z</updated>
+    <updated>2020-11-16T13:57:37.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xitangwang.github.io"/>
-    <link rel="self" href="https://xitangwang.github.io/atom.xml"/>
+    <link rel="alternate" href="https://wenming.space"/>
+    <link rel="self" href="https://wenming.space/atom.xml"/>
     <subtitle>🙋🏻‍♂️文明·空间，欢迎关注！</subtitle>
-    <logo>https://xitangwang.github.io/images/avatar.png</logo>
-    <icon>https://xitangwang.github.io/favicon.ico</icon>
+    <logo>https://wenming.space/images/avatar.png</logo>
+    <icon>https://wenming.space/favicon.ico</icon>
     <rights>All rights reserved 2020, 文明·空间</rights>
     <entry>
         <title type="html"><![CDATA[谜之自信]]></title>
-        <id>https://xitangwang.github.io/post/mi-zhi-zi-xin/</id>
-        <link href="https://xitangwang.github.io/post/mi-zhi-zi-xin/">
+        <id>https://wenming.space/post/mi-zhi-zi-xin/</id>
+        <link href="https://wenming.space/post/mi-zhi-zi-xin/">
         </link>
         <updated>2020-11-16T07:47:59.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[改变2：立刻行动]]></title>
-        <id>https://xitangwang.github.io/post/change2/</id>
-        <link href="https://xitangwang.github.io/post/change2/">
+        <id>https://wenming.space/post/change2/</id>
+        <link href="https://wenming.space/post/change2/">
         </link>
         <updated>2020-11-16T03:56:20.000Z</updated>
         <content type="html"><![CDATA[<h1 id="改-变"><strong>改 变</strong></h1>
@@ -75,8 +75,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《房间》]]></title>
-        <id>https://xitangwang.github.io/post/fangjian/</id>
-        <link href="https://xitangwang.github.io/post/fangjian/">
+        <id>https://wenming.space/post/fangjian/</id>
+        <link href="https://wenming.space/post/fangjian/">
         </link>
         <updated>2020-11-15T08:22:30.000Z</updated>
         <content type="html"><![CDATA[<center><font size=5>房间里面有俩人</font></center>
@@ -85,8 +85,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《时间》]]></title>
-        <id>https://xitangwang.github.io/post/shijian/</id>
-        <link href="https://xitangwang.github.io/post/shijian/">
+        <id>https://wenming.space/post/shijian/</id>
+        <link href="https://wenming.space/post/shijian/">
         </link>
         <updated>2020-11-13T02:41:54.000Z</updated>
         <content type="html"><![CDATA[<center><font size=5>把时间都收集起来</font></center>
@@ -101,17 +101,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《窗边》]]></title>
-        <id>https://xitangwang.github.io/post/chuangbian/</id>
-        <link href="https://xitangwang.github.io/post/chuangbian/">
+        <id>https://wenming.space/post/chuangbian/</id>
+        <link href="https://wenming.space/post/chuangbian/">
         </link>
         <updated>2020-11-12T07:44:04.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xitangwang.github.io/post-images/1605167073796.jpg" alt="窗边" width="600" height="750" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wenming.space/post-images/1605167073796.jpg" alt="窗边" width="600" height="750" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[改变1：每日冥想]]></title>
-        <id>https://xitangwang.github.io/post/change01/</id>
-        <link href="https://xitangwang.github.io/post/change01/">
+        <id>https://wenming.space/post/change01/</id>
+        <link href="https://wenming.space/post/change01/">
         </link>
         <updated>2020-11-09T07:14:53.000Z</updated>
         <content type="html"><![CDATA[<h1 id="改-变"><strong>改 变</strong></h1>
@@ -136,8 +136,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[《五十二个改变》-- 让生活重新振作]]></title>
-        <id>https://xitangwang.github.io/post/Fifty-two-changes/</id>
-        <link href="https://xitangwang.github.io/post/Fifty-two-changes/">
+        <id>https://wenming.space/post/Fifty-two-changes/</id>
+        <link href="https://wenming.space/post/Fifty-two-changes/">
         </link>
         <updated>2020-11-08T04:59:36.000Z</updated>
         <summary type="html"><![CDATA[<p>就像购买iphone会附带说明书一样，我也写了一段关于使用这本书的说明书。我自己买手机的时候，是从来不看说明书的。估计你们跟我也差不多。不过这次有点不同，我还是诚挚建议你在读之前，阅读下这段说明。</p>
