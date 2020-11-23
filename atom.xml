@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wenming.space</id>
     <title>文明·空间</title>
-    <updated>2020-11-17T07:50:08.030Z</updated>
+    <updated>2020-11-23T07:42:33.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wenming.space"/>
     <link rel="self" href="https://wenming.space/atom.xml"/>
@@ -10,6 +10,87 @@
     <logo>https://wenming.space/images/avatar.png</logo>
     <icon>https://wenming.space/favicon.ico</icon>
     <rights>All rights reserved 2020, 文明·空间</rights>
+    <entry>
+        <title type="html"><![CDATA[改变3：柔软的心态]]></title>
+        <id>https://wenming.space/post/change03/</id>
+        <link href="https://wenming.space/post/change03/">
+        </link>
+        <updated>2020-11-23T07:40:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="改变">改变</h1>
+<p>少些计较心和得失心，以柔软和包容之心接纳事情。</p>
+<h1 id="理-由">理 由</h1>
+<p>我们希望事情按照自己设定的剧本进行。当事情的发展与我们设想有偏差时，我们<br>
+就会感到挫败和郁闷，有时候还会生自己气。</p>
+<p>可是啊，人生不如意十之八九，如果每件事你都生气，那人活着得多苦逼啊。</p>
+<p>所以嘛，我们要学习以柔软的心态去接纳种种变化，不以好或坏来评价它。</p>
+<h1 id="步-骤">步 骤</h1>
+<ol>
+<li>
+<p>在这周内，当你做事「不如意」时，试着放弃当初「如你意」的那个想法；</p>
+</li>
+<li>
+<p>列一个自己的「不爽清单」。比如专心工作被打断，开车被加塞，找了一堆A片却下不来，夫人不去做家务等等；</p>
+</li>
+<li>
+<p>把这个清单放到你随时可见的地方。比如录入手机的记事本、放在办公桌；</p>
+</li>
+<li>
+<p>当我们因为清单上的事情生气时，停下来，不要行动，平静地呼吸一会儿；</p>
+</li>
+<li>
+<p>当你平静下来后，观察下让自己不爽的原因是什么——比如希望超车的司机别这么冲，别人发封邮件而不是电话打扰；</p>
+</li>
+<li>
+<p>当心情安静下来后，你就能进行这样的观察了：也许别人有急事赶时间、或者是个刚拿驾照的新手。如此这样，你就能平静地做出反应，坦然接受它们了；</p>
+</li>
+</ol>
+<p>这样的练习在一周中也许会有很多次。我自己一开始的时候也做不到平静观察。因为自己的习气已经养成多年，而习气的力量往往比意志力还强。所以只是注意到自己的这些情绪，并试着每天一次运用这些步骤，已经是非常了不起的了。</p>
+<p>在我们进行52个改变的过程中，总会有各种各样的「不如意」发生。练习这些改变的过程，其实你也是在练习这种「不去计较、坦然接受」的柔软心态。在接下来的时间里，希望你能常常进行这项练习<sup>_</sup>。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[管理与发布]]></title>
+        <id>https://wenming.space/post/guan-li-yu-fa-bu/</id>
+        <link href="https://wenming.space/post/guan-li-yu-fa-bu/">
+        </link>
+        <updated>2020-11-17T13:42:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="管理与发布">管理与发布</h1>
+<p>[image:SFNoteIntro1_File0/Organize@2x.jpg]</p>
+<p>让我们进一步了解熊掌记及其功能。 如果你想要从头开始，请回到[[欢迎使用熊掌记]]，也可以直接跳转到[[Bear Pro = 同步+加密+多种导出格式+更多主题+未来更多…]]以及[[方法与技巧]]。</p>
+<h2 id="在任何地点工作-️">在任何地点工作 ☁️</h2>
+<p>你在写作时笔记会在设备上自动保存：这就是没有保存按钮的原因。 😄</p>
+<p>如果你想在 Mac、iPad 和 iPhone 之间同步笔记，请<a href="bear://x-callback-url/open-bear-pro">升级到 Bear Pro</a>。Bear Pro 提供多种功能，同时熊掌记将使用你的 iCloud 帐户在你的所有设备间更新笔记。</p>
+<p>熊掌记同时还支持在您的 iPad、iPhone 和 Mac 之间使用 <a href="https://support.apple.com/zh-cn/HT204681">Apple 的“接力”技术</a>。 此功能将使您能够在一台设备上新建笔记后，迅速切换到其他设备上继续创作。</p>
+<h2 id="标签和子标签">标签和子标签 🏷</h2>
+<p><em>标签</em>是熊掌记管理笔记的强大功能之一。</p>
+<p>在中文词语两侧“ #欢迎# ”加入井字，熊掌记就会将其当作文件夹或分类，把所有具有相同标签的笔记整合起来。 所有标签都会显示在侧边栏，也就是熊掌记的左侧面板。</p>
+<p>利用标签，你可将类似内容的笔记按项目、主题或其他原则归类。</p>
+<p>下方列出了一些关于标签的方法与技巧：</p>
+<ul>
+<li>在每篇笔记中，你可任意添加标签，数量不限，即时生效。</li>
+<li>对于英语等单词间有空格的语言，单个词语的标签在空格后自动生成，而在词组两侧加入井字符号则可创建<a href="https://bear.app/organize-notes-with-tags-and-infinite-nested-tags-c42b02b2c0d7">词组标签</a>。例如：<code>#Star Wars# #Home Improvement# #World Domination#</code></li>
+<li>您可以在笔记正文的任何位置插入标签（标题除外）——开头、结尾、每段之后，都可以。这完全由你决定。</li>
+<li>将一篇或多篇笔记拖放到侧边栏上的标签即可为这些笔记批量添加对应标签。</li>
+</ul>
+<p>阅读 [[欢迎使用熊掌记]] 了解更多关于熊掌记排版布局的核心功能。</p>
+<h3 id="别急还有更多">别急，还有更多！</h3>
+<p>熊掌记还可通过子标签将标签联系起来。例如：你添加了一个“#欢迎/管理”的标签。在侧边栏中，“管理”就会成为“欢迎”的子标签！</p>
+<p>子标签在侧边栏的作用和子文件夹类似。点击标签旁边的按钮即可展开/关闭，方便查看子标签。在熊掌记中你可以方便的管理标签，我们希望你在实际工作中可以尝试使用。</p>
+<h2 id="在任何地方发布">在任何地方发布 🌐</h2>
+<p>当您想将笔记发送到其他应用，或发送给朋友时，请点击笔记右上角的<strong>信息面板</strong>ⓘ按钮。熊掌记提供多种灵活的导出选项。</p>
+<p>免费版的熊掌记可将笔记导出为纯文本、Markdown、<a href="http://textbundle.org/">TextBundle</a>、富文本以及<a href="https://www.taskpaper.com">TaskPaper</a>格式。</p>
+<p><a href="bear://x-callback-url/open-bear-pro">订阅 Bear Pro</a>后还可导出为 PDF、HTML、Word (DOCX) 格式，还可导出为 JPG 格式的图片。将熊掌记导出为 JPG 图片可以方便地在社交网站和其他有字数限制的平台上发布。</p>
+<h2 id="详细信息">详细信息 🔍</h2>
+<p>在信息面板的<em>字数统计工具</em>中你可了解字数、段落数和预估的<em>阅读时间</em>。</p>
+<h2 id="了解-bear-pro">了解 Bear Pro 🐻🚀</h2>
+<p>继续阅读下一篇笔记——[[Bear Pro = 同步+加密+多种导出格式+更多主题+未来更多…]]，了解如何在多设备间同步，获得更多导出选项以及不断增加的<a href="bear://x-callback-url/open-themes">精美主题</a> ，为您提供更完美的书写环境。</p>
+<h3 id="了解更多">了解更多</h3>
+<p>[[欢迎使用熊掌记]]<br>
+[[Bear Pro = 同步+加密+多种导出格式+更多主题+未来更多…]]<br>
+[[方法与技巧]]</p>
+<p>#欢迎/管理 #欢迎/发布</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谜之自信]]></title>
         <id>https://wenming.space/post/mi-zhi-zi-xin/</id>
