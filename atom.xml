@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wenming.space</id>
     <title>文明·空间</title>
-    <updated>2020-11-23T15:38:31.131Z</updated>
+    <updated>2020-12-30T07:40:56.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wenming.space"/>
     <link rel="self" href="https://wenming.space/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://wenming.space/images/avatar.png</logo>
     <icon>https://wenming.space/favicon.ico</icon>
     <rights>All rights reserved 2020, 文明·空间</rights>
+    <entry>
+        <title type="html"><![CDATA[改变4：慢食]]></title>
+        <id>https://wenming.space/post/change04/</id>
+        <link href="https://wenming.space/post/change04/">
+        </link>
+        <updated>2020-12-28T07:31:49.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="改-变">改 变</h1>
+<p>开始尝试慢食。</p>
+<h1 id="理-由">理 由</h1>
+<p>我们每天都要吃饭。肚子饿了吃饭，边看电视边吃零食，心情烦躁吃甜品舒缓压力，边吃边谈生意。我们吃了一顿又一顿，却常常心不在焉，没有体会食物本身的滋味和乐趣。慢食帮助我们专注于食物这件事情上来，不要想其他事情，不要一边吃一边看微信、不要应酬工作、不要看电视。保持专心和放慢动作，一口一口，体会食物的美味。</p>
+<h1 id="步-骤">步 骤</h1>
+<ol>
+<li>在这周的每天里选一顿饭，尝试慢食；</li>
+<li>吃饭时，不要看手机，不要看电视，不要读书，不要聊天。只管吃饭；</li>
+<li>把你的饭桌收拾一下。在桌面上，只放食物和水，其他东西都拿走；</li>
+<li>吃之前，请仔细看看眼前的食物，感受它们的香气、颜色、形状；</li>
+<li>每一口都慢慢地咀嚼。注意力集中在吃饭这件事情上：食物在口中是什么感觉、味道如何、咀嚼和吞咽有什么感觉；</li>
+<li>当你在吃饭的时候，心里不要想着其他事情——没有工作计划，没有最后期限，没有做这做那的清单，没有烦恼，没有悲伤，没有怨恨；7. 当你感觉差不多饱的时候，休息5分钟，看看是否饱了。如果还没饱，那就再吃一点，休息5分钟。如果你还感觉到饿，继续重复。</li>
+</ol>
+<p>你可以在和朋友聚餐时也进行某种程度的慢食（比如慢慢吃，咽完食物喝口水之后再说话。完全不说话的饭局，会被人讨厌死的吧）。它能帮助更好地体味到食物、享受食物带来的快乐。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[改变3：柔软的心态]]></title>
         <id>https://wenming.space/post/change03/</id>
@@ -78,7 +100,7 @@
         <content type="html"><![CDATA[<h1 id="改-变"><strong>改 变</strong></h1>
 <p>每天进行5-10分钟的立刻行动时间。</p>
 <h1 id="理-由"><strong>理 由</strong></h1>
-<p>拖延症可是哥老大难题。我们知道自己要去做这件事，可就是拖着。</p>
+<p>拖延症可是个老大难题。我们知道自己要去做这件事，可就是拖着。</p>
 <p>反正还有些时间，先去逛逛淘宝，刷下微博，看看新闻，检查下邮箱有没有新邮件，做一些容易琐碎的小事，可就是不去做那件重要的事情。</p>
 <p>比如，我知道今天需要翻译2个章节才能赶上进度。但是在我开始翻译前，我总是会磨磨蹭蹭，喝杯水，刷新下朋友圈，检查下我的邮箱。看到了吗，在我翻译前，我有好多好多的琐事要做，虽然我知道这些事远不如翻译重要。</p>
 <p>为什么我们会一直做这些琐事？因为那些重要的事情往往不容易做，而人类的天性就是好逸懒做、能拖就拖。</p>
