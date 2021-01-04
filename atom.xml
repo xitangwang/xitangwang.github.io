@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wenming.space</id>
     <title>文明·空间</title>
-    <updated>2021-01-04T15:30:31.771Z</updated>
+    <updated>2021-01-04T15:51:31.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wenming.space"/>
     <link rel="self" href="https://wenming.space/atom.xml"/>
@@ -104,6 +104,42 @@
         </link>
         <updated>2021-01-04T07:46:13.000Z</updated>
         <content type="html"><![CDATA[<h1 id="改变">改变</h1>
+<pre><code class="language-typescript">import { PropManager } from &quot;../managers/PropManager&quot;;
+
+class UtilsClass {
+  public isGameProfileInited: boolean = false;
+
+  constructor() {
+
+  }
+
+  public getRealSize(entity) {
+
+    const info = wx.getSystemInfoSync();
+    const screenWidth = info.screenWidth
+    const screenHeight = info.screenHeight;
+
+    const worldWidth = engine.game.rootUICanvas.entity.transform2D.size.x;
+    const worldHeight = engine.game.rootUICanvas.entity.transform2D.size.y;
+
+    const width = entity.transform2D.size.x;
+    const height = entity.transform2D.size.y;
+
+    const x = entity.transform2D.worldPosition.x;
+    const y = entity.transform2D.worldPosition.y;
+
+    const realWidth = (screenWidth / worldWidth) * width;
+    const realHeight = (screenHeight / worldHeight) * height;
+
+    const realX = (worldWidth / 2 - x - width / 2) * (screenWidth / worldWidth);
+    const realY = (worldHeight / 2 - y - height / 2) * (screenHeight / worldHeight);
+
+    console.log(realX, realY)
+
+    return { realWidth, realHeight, realX, realY }
+  }
+}
+</code></pre>
 ]]></content>
     </entry>
     <entry>
