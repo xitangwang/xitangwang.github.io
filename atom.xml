@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wenming.space</id>
     <title>文明·空间</title>
-    <updated>2021-01-04T15:51:31.982Z</updated>
+    <updated>2021-01-04T16:05:59.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wenming.space"/>
     <link rel="self" href="https://wenming.space/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, 文明·空间</rights>
     <entry>
         <title type="html"><![CDATA[什么是计算？｜《比特世界漫游指南》]]></title>
-        <id>https://wenming.space/post/lesslessbi-te-shi-jie-man-you-zhi-nan-greatergreater-shi-me-shi-ji-suan/</id>
-        <link href="https://wenming.space/post/lesslessbi-te-shi-jie-man-you-zhi-nan-greatergreater-shi-me-shi-ji-suan/">
+        <id>https://wenming.space/post/What is computation?/</id>
+        <link href="https://wenming.space/post/What is computation?/">
         </link>
         <updated>2021-01-04T09:19:24.000Z</updated>
         <summary type="html"><![CDATA[<p>在讲什么是计算之前，我们需要来了解一样更加基础的东西。你先来想一想，数学里面最基础的知识是什么呢？ 答案很简单，就是数数，我们最先学会的数学不就是数一二三四五吗？</p>
